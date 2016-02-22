@@ -9,6 +9,7 @@ mjgfuwyte
 * YouTube
 * GitHub
 * Instagram
+* Spotify
 
 --
 * **Bonus**: An Email app
