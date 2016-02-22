@@ -1,15 +1,8 @@
 # HTTP-lab
 
 This is the lab. :)
-mjgfuwyte
 
+We chose:
 
-* Social Network
-* Clothing Store
-* YouTube
-* GitHub
-* Instagram
-* Spotify
-
---
-* **Bonus**: An Email app
+-> Social Network
+-> **Bonus**: An Email app
