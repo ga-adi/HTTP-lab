@@ -1,22 +1,6 @@
-# HTTP-lab
-
-This is the lab. :)
-mjgfuwyte
-
-
-* Social Network
-* Clothing Store
-* YouTube
-* GitHub
-* Instagram
-* Spotify
-
---
-* **Bonus**: An Email app
-
 title | type | duration | creator
 ----- | ---- | -------- | -------
-Practicing HTTP and REST Concepts | lab | 1:30 | James Davis (New York)
+Practicing HTTP and REST Concepts Lab | lab | 1:30 | James Davis (New York)
 
 --
 
